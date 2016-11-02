@@ -52,6 +52,7 @@ namespace stamtræ
             foreach (var person in personList)
             {
                 gen1.Add(person);
+                //
             }
             var deleteList = new List<Person>();
              
